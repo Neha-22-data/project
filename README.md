@@ -1,8 +1,10 @@
 Flight Price Prediction Prject -
+
 Overview :
 The Flight Price Prediction project aims to build a machine learning model that predicts flight ticket prices based on various factors
 
 Steps carried out in project -
+
 1)Data Preprocessing: Cleans and transforms raw data for effective model training.
 2)Exploratory Data Analysis (EDA): Analyzes trends and correlations in flight prices.
 3)Model Training: Implements multiple machine learning algorithms to find the best predictive model.
