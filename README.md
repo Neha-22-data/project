@@ -1,6 +1,6 @@
-Flight Price Prediction Prject -
+# Flight Price Prediction Prject -
 
-Overview :
+### Overview :
 
 The Flight Price Prediction project aims to build a machine learning model that predicts flight ticket prices based on various factors
 
